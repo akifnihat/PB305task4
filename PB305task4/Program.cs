@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-         
+
             #region task1
             //int[] numbers = { 1, 7, 11, 9, 3 };
             //int sum = 0;
@@ -111,31 +111,15 @@
             #endregion
 
             #region task6
-            //int[] numbers = { 12, 22, 25, 34, 40, 55, 68, 98, 100,101};
-
-            //int target = 55;
-
-            //int first = 0;
-            //int last = numbers.Length - 1;
+            //int[] array = { 1, 2, 3, 4, 5, 6, 7, 8, };
+            //int n = 5;
             //int index = -1;
-
-            //while (first <= last)
+            //for (int i = 0; i < array.Length; i++) 
             //{
-            //    int mid = first + (last - first) / 2;
-
-            //    if (numbers[mid] == target)
+            //    if (array[i] == n)
             //    {
-            //        index = mid;
-            //        break;
-            //    }
-            //    else if (numbers[mid] < target)
-            //    {
-            //        first = mid + 1;
-            //    }
-            //    else
-            //    {
-            //        last = mid - 1;
-            //    }
+            //        index = i;
+            //    }     
             //}
             //Console.WriteLine(index);
 
@@ -179,8 +163,7 @@
             //double count = 0;
             //double sum = 0;
 
-            //object[] students = { student1, student2, student3 };
-
+            
             //if (student1.GroupNo == "PB302")
             //{
             //    sum += student1.point;
